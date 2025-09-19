@@ -32,24 +32,24 @@ cd ATM-System
 
 ### Compilation
 ```bash
-gcc -o ATM-System atm_system.c
+gcc atm_simulator.c -o ATM 
 ```
 
 ### Alternative Compilation with Debugging
 ```bash
-gcc -g -Wall -Wextra -o ATM-System atm_system.c
+gcc -g -Wall -Wextra atm_simulator.c -o ATM
 ```
 
 ## 🚀 Usage
 
 ### Running the Program
 ```bash
-./atm_system
+./ATM
 ```
 
 ### On Windows
 ```cmd
-atm_system.exe
+ATM.exe
 ```
 
 ### Initial Setup
