@@ -2,18 +2,6 @@
 
 A comprehensive C program that simulates the basic functions of an ATM (Automated Teller Machine).
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Functions Overview](#functions-overview)
-- [Input Validation](#input-validation)
-- [Example Usage](#example-usage)
-- [Technical Details](#technical-details)
-- [License](#license)
-- [Author](#Author)
-
 ## ✨ Features
 
 - **Check Balance**: Display current account balance
