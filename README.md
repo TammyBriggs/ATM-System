@@ -15,7 +15,6 @@ A comprehensive C program that simulates the basic functions of an ATM (Automate
 
 - **Compiler**: GCC (GNU Compiler Collection) or any C99-compatible compiler
 - **Operating System**: Windows, Linux, or macOS
-- **Memory**: Minimal system requirements
 - **Dependencies**: Standard C library only
 
 ## 📦 Installation
@@ -71,10 +70,11 @@ atm_system.exe
 
 ### Utility Functions
 | Function | Purpose |
-|----------|---------|------------|-------------|
+|----------|---------|
 | `get_user_choice()` | Validates menu selection |
 | `get_amount()` | Gets monetary input |
 | `clear_input_buffer()` | Clears invalid input |
+
 
 ## 🛡️ Input Validation
 
