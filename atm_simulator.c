@@ -57,7 +57,7 @@ int main() {
         }
         
         // Pause before showing menu again (except on exit)
-        if (choice != 4 && choice >= 1 && choice <= 3) {
+        if (choice >= 1 && choice <= 3) {
             printf("Press Enter to continue...");
             getchar();
             printf("\n");
